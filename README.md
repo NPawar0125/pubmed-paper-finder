@@ -39,7 +39,7 @@ A command-line and interactive Streamlit-based tool to search PubMed, identify p
 
 
 🔹 Project Structure
-  - pubmed-paper-fetcher/
+  - pubmed-paper-fetcher/pubmed-search-tool/
   - ├── cli.py                      # Command-line interface
   - ├── app.py                      # Streamlit UI
   - ├── pubmed_fetcher/
